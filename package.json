@@ -1,16 +1,16 @@
 {
-"name": "imi9betcom",
-"theme": "imi9bet com",
-"version": "3.5.8",
-"description": "imi9bet com สมัครเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
-"keywords": [
-"imi9bet com",
-"imi9bet com เครดิตฟรี",
-"imi9bet com ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/imi9betcom",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "imi9betcom",
+  "theme": "imi9bet com",
+  "version": "3.6.0",
+  "description": "imi9bet com สมัครเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
+  "keywords": [
+    "imi9bet com",
+    "imi9bet com เครดิตฟรี",
+    "imi9bet com ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/imi9betcom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
